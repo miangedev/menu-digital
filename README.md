@@ -1,4 +1,4 @@
-# menu-digital
+7# menu-digital
 
 ## Créditos del proyecto
 Este proyecto es una réplica modificada basada en el repositorio original [juliocesardw/tienda-online](https://github.com/juliocesardw/tienda-online), creado por Julio César.  
@@ -12,7 +12,6 @@ Fue adaptado y reestructurado por **Miguel Ángel Osorio Orduz** como parte de u
 - Estructura
 - Tecnologías
 - Instalación local
-- Despliegue
 - Contribuciones
 - Licencia
 - Créditos
@@ -51,8 +50,6 @@ open index.html  # o ejecutar: python -m http.server 8000
 ```
 Luego abre `http://localhost:8000` en tu navegador.
 
-## Despliegue
-El sitio está alojado estáticamente en `miange.online`, sin backend, correspondiente a un trabajo académico.
 
 ## Contribuciones
 Este proyecto es un prototipo académico; si deseas sugerir mejoras visuales o de contenido, puedes:
