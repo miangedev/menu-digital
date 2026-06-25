@@ -40,7 +40,7 @@ menu-digital/
 
 ## Tecnologías
 - HTML5 + CSS3
-- JavaScript (vanilla)
+- JavaScript
 - Diseño adaptado del repositorio original
 
 ## Instalación local
