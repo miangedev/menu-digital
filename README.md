@@ -1,4 +1,4 @@
-7# menu-digital
+# menu-digital
 
 ## Créditos del proyecto
 Este proyecto es una réplica modificada basada en el repositorio original [juliocesardw/tienda-online](https://github.com/juliocesardw/tienda-online), creado por Julio César.  
