@@ -26,13 +26,14 @@ Prototipo público disponible en:
 ## Estructura
 ```
 menu-digital/
-├── css/
-├── js/
-├── img/
+├── src/
+│    ├── css/
+│    ├── js/
+│    ├── img/
+│    ├── contacto.html
+│    ├── menu.html
+│    └──  nosotros.html
 ├── index.html
-├── menu.html
-├── nosotros.html
-├── contacto.html
 ├── README.md
 └── LICENSE.md
 ```
