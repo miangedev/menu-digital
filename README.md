@@ -19,10 +19,6 @@ Fue adaptado y reestructurado por **Miguel Ángel Osorio Orduz** como parte de u
 ## Descripción
 menu-digital es un sitio web estático basado en un diseño original de tienda online de Julio César, replicado y modificado para presentar un negocio de comida. El propósito es académico y la interacción es mínima, sin funcionalidades de comercio electrónico reales.
 
-## Demo en línea
-Prototipo público disponible en:  
-[https://pachorizo.miange.online](https://pachorizo.miange.online)
-
 ## Estructura
 ```
 menu-digital/
